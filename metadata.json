@@ -1,0 +1,6 @@
+{
+  "name": "Cucurbita — Procedural 3D Pumpkin Studio",
+  "description": "Interactive Three.js procedural 3D pumpkin sculpture with cosine-ribbed vertex deformation, subsurface scattering skin, twisted Catmull-Rom stem, and flickering candle glow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
