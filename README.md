@@ -2,7 +2,7 @@
 
 An interactive **Three.js + React + TypeScript** 3D studio that sculpts and renders a realistic, warm 3D pumpkin **100% procedurally from raw code**—without relying on any external `.glb` / `.obj` 3D models or external texture images.
 
-![Heirloom Amber Gourd — Interactive 3D Viewport & Subsurface Skin Controls](public/assets/aistudio/image_1b878305.png)
+![Heirloom Amber Gourd — Interactive 3D Viewport & Subsurface Skin Controls](artifacts/brain/media_1792572136661_7d9e3e1e.png)
 
 ---
 Made By Ahnaf Ahmed and Md Shabbir Mia 
