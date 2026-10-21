@@ -5,7 +5,7 @@ An interactive **Three.js + React + TypeScript** 3D studio that sculpts and rend
 ![Heirloom Amber Gourd — Interactive 3D Viewport & Subsurface Skin Controls](public/assets/aistudio/image_1b878305.png)
 
 ---
-
+Made By Ahnaf Ahmed and Md Shabbir Mia 
 ## Visual Showcase
 
 ### 1. Heirloom Amber Gourd (Classic Warm Orange & Waxy Clearcoat)
