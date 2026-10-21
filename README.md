@@ -11,12 +11,12 @@ Made By Ahnaf Ahmed and Md Shabbir Mia
 ### 1. Heirloom Amber Gourd (Classic Warm Orange & Waxy Clearcoat)
  Configured with `12 Cosine Ribs`, `0.78y` vertical squash, `40%` subsurface scattering bleed, `42%` waxy rind clearcoat, and `0.28` micro-roughness, with the front rind cutaway window open to inspect the flickering internal candle at `(0, 0, 0)`.
 
-![Heirloom Amber Gourd Studio View](public/assets/aistudio/image_1b878305.png)
+![Heirloom Amber Gourd Studio View](artifacts/brain/media_1792572182952_c33e5d11.png)
 
 ### 2. Deep Cinder Harvest Gourd (Roasted Terracotta & Mahogany Crevices)
 Rich roasted terracotta skin (`#c83e0b`) paired with deep mahogany rib valleys (`#5c1602`), `32%` clearcoat, and `0.34` surface micro-roughness illuminated by the warm internal candle core.
 
-![Deep Cinder Harvest Gourd Studio View](public/assets/aistudio/image_38dc79dd.png)
+![Deep Cinder Harvest Gourd Studio View](artifacts/brain/media_1792572182952_c33e5d11.png)
 
 ### 3. Jarrahdale Sage & Gold Gourd (Heirloom Celadon-Slate Rind & Golden Ember Bleed)
 Muted celadon-slate outer skin (`#6d7b63`) contrasted against warm golden-orange subsurface scattering (`#ff8811`), `25%` clearcoat, and `0.38` surface micro-roughness.
