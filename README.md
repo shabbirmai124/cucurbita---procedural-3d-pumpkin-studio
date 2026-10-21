@@ -16,7 +16,7 @@ Made By Ahnaf Ahmed and Md Shabbir Mia
 ### 2. Deep Cinder Harvest Gourd (Roasted Terracotta & Mahogany Crevices)
 Rich roasted terracotta skin (`#c83e0b`) paired with deep mahogany rib valleys (`#5c1602`), `32%` clearcoat, and `0.34` surface micro-roughness illuminated by the warm internal candle core.
 
-![Deep Cinder Harvest Gourd Studio View](artifacts/brain/media_1792572182952_c33e5d11.png)
+![Deep Cinder Harvest Gourd Studio View](artifacts/brain/media_1792572181721_9773b3bf.png)
 
 ### 3. Jarrahdale Sage & Gold Gourd (Heirloom Celadon-Slate Rind & Golden Ember Bleed)
 Muted celadon-slate outer skin (`#6d7b63`) contrasted against warm golden-orange subsurface scattering (`#ff8811`), `25%` clearcoat, and `0.38` surface micro-roughness.
