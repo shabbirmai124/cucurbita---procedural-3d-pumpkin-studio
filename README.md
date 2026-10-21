@@ -21,12 +21,12 @@ Rich roasted terracotta skin (`#c83e0b`) paired with deep mahogany rib valleys (
 ### 3. Jarrahdale Sage & Gold Gourd (Heirloom Celadon-Slate Rind & Golden Ember Bleed)
 Muted celadon-slate outer skin (`#6d7b63`) contrasted against warm golden-orange subsurface scattering (`#ff8811`), `25%` clearcoat, and `0.38` surface micro-roughness.
 
-![Jarrahdale Sage & Gold Gourd Studio View](public/assets/aistudio/image_20960e92.png)
+![Jarrahdale Sage & Gold Gourd Studio View](artifacts/brain/image_20960e92.png)
 
 ### 4. In-App 6-Stage Procedural Math & Three.js Inspector
 Clicking **Inspect Procedural Math** in the top navigation bar opens a live architectural breakdown showing the exact Three.js equations and PBR configurations dynamically updated with your current slider values.
 
-![6-Stage Procedural Pumpkin Synthesis Modal](public/assets/aistudio/image_64d09d59.png)
+![6-Stage Procedural Pumpkin Synthesis Modal](artifacts/brain/image_64d09d59.png)
 
 ---
 
@@ -91,7 +91,7 @@ All controls are consolidated into a **collapsible bottom studio dock** so the c
 ## Project Structure
 
 ```text
-├── public/assets/aistudio/          # Studio screenshots used in documentation
+├── public/artifacts/brain/          # Studio screenshots used in documentation
 │   ├── image_1b878305.png           # Heirloom Amber Gourd & Subsurface Skin view
 │   ├── image_38dc79dd.png           # Deep Cinder Harvest Gourd view
 │   ├── image_20960e92.png           # Jarrahdale Sage & Gold Gourd view
